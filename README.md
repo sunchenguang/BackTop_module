@@ -4,7 +4,7 @@
 
 
 #使用方法
-`js
+```js
 //在data-main主模块文件中可以这样调用
 require(['jquery', 'backtop'], function($, backTop) {
     //使用面向对象的方式调用
@@ -20,6 +20,6 @@ require(['jquery', 'backtop'], function($, backTop) {
         pos: 100        //当scrollTop大于pos时显示返回顶部按钮，否则不显示
     });
 });
-`js
+```js
 主要学习requirejs使用和模块化写法
 
