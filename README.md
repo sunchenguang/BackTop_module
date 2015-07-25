@@ -20,6 +20,6 @@ require(['jquery', 'backtop'], function($, backTop) {
         pos: 100        //当scrollTop大于pos时显示返回顶部按钮，否则不显示
     });
 });
-```js
-主要学习requirejs使用和模块化写法
+```
+#主要学习requirejs使用和模块化写法
 
